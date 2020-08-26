@@ -1,7 +1,7 @@
 library msgpack_dart;
 
 import 'dart:convert';
-import 'dart:io';
+import 'package:universal_io/io.dart';
 import 'dart:typed_data';
 
 part 'src/common.dart';
